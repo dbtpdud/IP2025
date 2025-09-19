@@ -10,5 +10,8 @@ https://www.youtube.com/watch?v=mVXt0H_h23U
 Homework1
 [![Video](https://img.youtube.com/vi/mVXt0H_h23U/maxresdefault.jpg)](https://www.youtube.com/watch?v=mVXt0H_h23U)
 
+Homework2
+https://youtu.be/ZHJ-qvwnI_o
+[![Video](https://img.youtube.com/vi/ZHJ-qvwnI_o/maxresdefault.jpg)](https://www.youtube.com/watch?v=mVXt0H_h23U)
 Homework3
 <img src="./homework3.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
